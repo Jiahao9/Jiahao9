@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sim Jiahao</h1>
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Jiahao9/Jiahao9/master/name.svg" alt="Sim Jiahao" />
+  <img src="https://github.com/Jiahao9/Jiahao9/blob/main/name.svg" alt="Sim Jiahao" />
 </h1>
 <h3 align="center">A student at Soka University studying in <br>the Department of Information Systems Science for my bachelor's degree.</h3>
 
