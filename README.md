@@ -1,19 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sim Jiahao</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Jiahao9/Jiahao9/master/name.svg" alt="Sim Jiahao" />
+</h1>
 <h3 align="center">A student at Soka University studying in <br>the Department of Information Systems Science for my bachelor's degree.</h3>
-
-
-<!--
-<details>
-<summary>My top languages</summary>
-
-| Rank | Languages |
-|-----:|-----------|
-|     1| C++       |
-|     2| Python    |
-|     3| C         |
-
-</details>
--->
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiahao9&layout=compact&show_icons=true&theme=onedark" />
@@ -23,19 +12,30 @@
 [![Jiahao9's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Jiahao9&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Jiahao9's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Jiahao9&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=Jiahao9)](https://github.com/ryo-ma/github-profile-trophy)-->
-
-
-
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jiahao9" alt="jiahao9" /></a> </p>-->
-
 - 🔭 I’m currently working on [**RoboCup Sobits Open**](https://github.com/TeamSOBITS/robocup_sobits_open/tree/rcso_2023_rrl)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/simjiahao1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simjiahao1" height="30" width="40" /></a>
-</p>
+<!-- <p align="left">
+  <a href="https://twitter.com/simjiahao1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="30" /></a> -->
+
+
+<tr>
+  <!-- Follow -->
+  <td>
+    <div>
+      <!-- Twitter -->
+      <div>
+        <a href="https://twitter.com/simjiahao1">
+          <img src="https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40simjiahao1" width="170" height="30">
+        </a>
+      </div>
+      <!-- Github -->
+      <div>
+        <a href="https://github.com/Jiahao9">
+          <img src="https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20Jiahao9" width="170" height="30">
+        </a>
+  </td>
+</tr>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -48,18 +48,3 @@
 
 
 \[not completed]
-
-<!--
-**Jiahao9/Jiahao9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
