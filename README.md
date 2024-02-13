@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm</h1>
 <h1 align="center">
   <a href="https://twitter.com/simjiahao1">
-    <img src="https://github.com/Jiahao9/Jiahao9/blob/main/name.svg" alt="Sim Jiahao" />
+    <img src="https://github.com/Jiahao9/Jiahao9/blob/master/name.svg" alt="Sim Jiahao" />
   </a>
 </h1>
 
