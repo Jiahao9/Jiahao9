@@ -7,6 +7,7 @@
 
 <h3 align="center">A student at <a href="https://www.soka.ac.jp/en/">Soka University</a> studying in <br>the Department of Information Systems Science for my bachelor's degree.<br><br><br></h3>
 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jiahao9&show_icons=true&theme=tokyonight" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Jiahao9&theme=dark&hide_border=true" width="400">
@@ -24,15 +25,15 @@
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 </p>
 
+---
+
 <p>
-  🗿 I’m currently participating in <a href="https://github.com/TeamSOBITS/robocup_sobits_open/tree/rcso_2023_rrl">RoboCup Sobits Open</a><br>
-  🦾 <br>
+  🗿 I’m currently participating in <a href="https://github.com/TeamSOBITS/robocup_sobits_open/tree/rcso_2023_rrl">RoboCup Sobits Open</a><br><br>
+  🦾 <br><br>
   🦿 Robotics (Autonomous mobile robots) ~ Localization ~ Human Following System ~<br>
 </p>
 
-<br>
-
-
+---
 <h3 align="left">Connect with me:</h3>
 
 <tr>
