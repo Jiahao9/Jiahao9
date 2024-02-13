@@ -1,4 +1,18 @@
-### Hi there 👋
+### About me 👋
+Hello, I'm Sim Jiahao, a student at Soka University studying in the Department of Information Systems Science for my bachelor's degree.
+
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| C++       |
+|     2| Python    |
+|     3| C         |
+
+</details>
+
+\[not completed]
 
 <!--
 **Jiahao9/Jiahao9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
