@@ -12,6 +12,9 @@ Hello, I'm Sim Jiahao, a student at Soka University studying in the Department o
 
 </details>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiahao9)](https://github.com/anuraghazra/github-readme-stats)
+
+
 \[not completed]
 
 <!--
