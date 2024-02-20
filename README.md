@@ -42,8 +42,8 @@
     <div>
       <!-- Twitter -->
       <div>
-        <a href="https://twitter.com/simjiahao1">
-          <img src="https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40simjiahao1" width="170" height="30">
+        <a href="https://twitter.com/sim_jiahao">
+          <img src="https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40sim_jiahao" width="170" height="30">
         </a>
       </div>
       <!-- Github -->
